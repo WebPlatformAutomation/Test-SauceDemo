@@ -1,0 +1,17 @@
+{
+  "name": "test-saucedemo",
+  "version": "0.0.1",
+  "description": "Demo of Platform-UI Framework",
+  "scripts": {
+    "test": "npx run demo"
+  },
+  "author": "James Tsay",
+  "license": "Apache License 2.0",
+  "devDependencies": {
+    "@babel/core": "7.17.7",
+    "@babel/preset-env": "7.20.2",
+    "@babel/register": "7.17.0",
+    "platform-ui-automation": "^0.0.6",
+    "platform-ui-lib-saucedemo": "^0.0.1"
+  }
+}
